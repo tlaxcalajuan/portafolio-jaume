@@ -9,4 +9,4 @@ se aplican conocimeintos de: gradientes, nth´s, media query, y mas.
 incluye version mobile y desktop.
 
 
-![alt text](https://i.postimg.cc/MGWLhnBG/portfolio.png)
+![alt text](https://i.ibb.co/6sG4cbZ/Captura-de-pantalla-873.png)
